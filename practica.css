@@ -1,0 +1,27 @@
+img {
+    float: left;
+    width:  371px;
+    height: 371px;
+    margin:80px 50px 20px 50px;
+    border-radius: 10%;
+    object-fit:cover;
+
+}
+
+h1{
+    font-size:100px;
+    margin:50px 50px 20px 50px;
+    font-family: 'DM Mono', monospace;
+    color:#7a89a3;
+}
+h1::selection{color: black;}
+
+*{
+    background-color:#dfe5f0;
+}
+
+img:hover{border: 7px solid#364d75;
+margin: 73px 43px 13px 43px;
+}
+
+
